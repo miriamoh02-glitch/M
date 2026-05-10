@@ -69,9 +69,9 @@ export const children: ChildTribute[] = [
     role: "Your eldest",
     imageSrc: "/children/belinda.png",
     imageAlt:
-      "Belinda in a full-length white dress with floral embroidery and sheer lace at the hem, smiling in front of a tall dark gate with gold finials and a peach wall under a bright sky.",
+      "Belinda in a studio portrait: white satin button-down blouse, tailored tan trousers, warm brown seamless backdrop; she rests a hand on a white plinth with a relaxed, confident smile.",
     message: [
-      "Mum, I still remember you staying up folding laundry like it was a prayer — like care could be folded into piles.",
+      "mum i still remember you late into the hours praying and interceding for me like it was your paid job",
       "You taught me that strength isn’t loud. It’s showing up early, apologizing honestly, and making room when you are tired.",
       "If I am gentle with anyone in this world, I learned it first from watching you refuse to become hard.",
       "Thank you for being the dependable line on the horizon when everything else swayed.",
@@ -87,7 +87,6 @@ export const children: ChildTribute[] = [
     message: [
       "When I panic, my mind still searches for your voice — not to fix everything, just to steady the room.",
       "You gifted me curiosity without making me ashamed of tenderness. That changed the shape of my life.",
-      "I think about how you learned new things late at night just so we could feel brave about trying.",
       "I love you beyond easy words — in the stubborn, daily kind of love that insists on remembering you accurately.",
     ],
   },
@@ -101,7 +100,6 @@ export const children: ChildTribute[] = [
     message: [
       "Sometimes I pretend I grew up fearless. The truth is: you practiced courage in front of us until courage felt normal.",
       "You defended our joy like it mattered — not as performance, but as nourishment.",
-      "I used to roll my eyes when you reminded me to zip my coat. Now I recognize it as the sound of devotion.",
       "You are my favorite storyteller — not because the stories were perfect, because you made us feel remembered inside them.",
     ],
   },
